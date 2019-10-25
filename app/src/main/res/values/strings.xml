@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab3_second</string>
+    <string name="buttonToSecondText">To second</string>
+    <string name="toFirst">To first</string>
+    <string name="toThird">To third</string>
+    <string name="backtext">Back</string>
+    <string name="aboutText">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
